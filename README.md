@@ -208,4 +208,4 @@ Sky Cue Club is offered as a full free version, providing access to all features
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-09 16:47:13 UTC
+**Last updated:** 2026-10-09 21:25:42 UTC
